@@ -11,13 +11,13 @@ description: > # this means to ignore newlines until "email:"
 
 email: oronaldosantos@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/c32.36.576.576/s160x160/923490_10152017874547098_2084617747_n.jpg?oh=f77c318c001c46c4f95db72f5894500c&oe=5668E1FB&__gda__=1450119366_8b0ab456895cdbb4f4cd8f76f5e674e7"
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
 name: 'Ronaldo Bitencourt'
 author: 'Ronaldo Bitencourt'
-author_image: "/assets/images/author.jpg"
+author_image: "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/c32.36.576.576/s160x160/923490_10152017874547098_2084617747_n.jpg?oh=f77c318c001c46c4f95db72f5894500c&oe=5668E1FB&__gda__=1450119366_8b0ab456895cdbb4f4cd8f76f5e674e7"
 
 paginate:	5
 
