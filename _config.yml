@@ -1,9 +1,24 @@
-# Build settings
-markdown: redcarpet
-highlighter: pygments
 gems:
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jekyll-redirect-from
   - jemoji
-  
+
+# Conversion
+# markdown: redcarpet
+# highlighter: pygments
+excerpt_separator: ""
+
+# Outputting
+permalink: "/:title"
+paginate_path: "/pagina-:num"
+paginate: 10
+timezone: America/Sao_Paulo
+
+# Markdown Processors
+kramdown:
+  input: GFM
+
 # Site settings
 title: "oronaldosantos blog"
 description: > # this means to ignore newlines until "email:"
@@ -19,7 +34,6 @@ name: 'Ronaldo Bitencourt'
 author: 'Ronaldo Bitencourt'
 author_image: "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/c32.36.576.576/s160x160/923490_10152017874547098_2084617747_n.jpg?oh=f77c318c001c46c4f95db72f5894500c&oe=5668E1FB&__gda__=1450119366_8b0ab456895cdbb4f4cd8f76f5e674e7"
 
-paginate:	5
 
 url: "http://oronaldosantos.github.io" # the base hostname & protocol for your site
 baseurl: ""
